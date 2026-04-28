@@ -1,0 +1,7 @@
+App fails to start with error:
+
+PermissionError: [Errno 13] Permission denied
+
+Directory: /var/www/app
+Owner: root
+Service running as: www-data
